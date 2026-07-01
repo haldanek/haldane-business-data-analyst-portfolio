@@ -1,8 +1,8 @@
 function Projects() {
   return (
-    <div>
+    <main>
       <h1>Projects Page</h1>
-    </div>
+    </main>
   );
 }
 

@@ -1,8 +1,15 @@
 function Home() {
   return (
-    <div>
-      <h1>Home Page</h1>
-    </div>
+    <main>
+      <h1>Kimberlee Haldane</h1>
+
+      <h2>Business Data Analyst Portfolio</h2>
+
+      <p>
+        Transforming data into actionable business insights through analysis,
+        visualization, and communication.
+      </p>
+    </main>
   );
 }
 

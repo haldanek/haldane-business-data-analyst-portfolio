@@ -1,8 +1,8 @@
 function Resume() {
   return (
-    <div>
+    <main>
       <h1>Resume Page</h1>
-    </div>
+    </main>
   );
 }
 

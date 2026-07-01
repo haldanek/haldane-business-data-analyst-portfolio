@@ -1,8 +1,8 @@
 function Skills() {
   return (
-    <div>
+    <main>
       <h1>Skills Dashboard</h1>
-    </div>
+    </main>
   );
 }
 

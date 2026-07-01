@@ -1,8 +1,8 @@
 function Journey() {
   return (
-    <div>
+    <main>
       <h1>Learning Journey</h1>
-    </div>
+    </main>
   );
 }
 
