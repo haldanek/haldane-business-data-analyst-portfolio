@@ -418,6 +418,10 @@ p {
   margin-bottom: 20px;
 }
 
+/* RESUME PAGE- EXPERIENCE SECTION SPACING */
+.experience-item {
+  margin-bottom: 40px;
+}
 /* =========================
    ABOUT PAGE
 ========================= */
