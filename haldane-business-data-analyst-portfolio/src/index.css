@@ -294,3 +294,72 @@ p {
 .project-card:hover {
   transform: translateY(-5px);
 }
+
+/* LEARNING JOURNEY */
+
+.journey-container {
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  margin-top: 40px;
+}
+
+.journey-card {
+  background-color: white;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.08);
+}
+
+/* STYLE ARROWS */
+
+.journey-arrow {
+  text-align: center;
+  font-size: 4rem;
+  font-weight: bold;
+  color: var(--blue);
+}
+
+/* TIMELINE ENDPOINT */
+
+.timeline-end {
+  display: flex;
+  justify-content: center;
+  margin: 20px 0 40px;
+}
+
+.end-circle {
+  width: 30px;
+  height: 30px;
+  background-color: var(--blue);
+  border-radius: 50%;
+  border: 5px solid white;
+  box-shadow: 0 0 0 4px var(--blue);
+}
+
+/* STYLE SUMMARY SECTION */
+
+.career-summary {
+  background-color: white;
+  margin-top: 40px;
+  padding: 40px;
+  border-radius: 12px;
+  box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.08);
+}
+
+/* STYLE SKILLS LIST */
+
+.skills-list {
+  margin-top: 20px;
+  padding-left: 20px;
+}
+
+.skills-list li {
+  margin-bottom: 10px;
+}
+
+/* HEADING RULE */
+
+.career-summary h3 {
+  margin-top: 30px;
+}
