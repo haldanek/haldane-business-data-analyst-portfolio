@@ -61,7 +61,7 @@ function Journey() {
         </p>
 
         <p>
-          Business Data Analytics allows me to combine these strengths with
+          Data Analytics allows me to combine these strengths with
           technical tools such as Excel, SQL, Power BI, and Python to support
           business decisions.
         </p>
