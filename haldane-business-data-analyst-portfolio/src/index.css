@@ -16,6 +16,7 @@
   --background: #f8fafc;
   --white: #ffffff;
   --text: #1e293b;
+  --red: red;
 }
 
 /* BODY */
@@ -320,21 +321,34 @@ p {
   color: var(--blue);
 }
 
-/* TIMELINE ENDPOINT */
-
-.timeline-end {
+/* FANCY DIVIDER */
+.fancy-divider {
   display: flex;
-  justify-content: center;
-  margin: 20px 0 40px;
+  align-items: center;
+  margin: 30px 0;
 }
 
-.end-circle {
-  width: 30px;
-  height: 30px;
-  background-color: var(--blue);
+.fancy-divider::before,
+.fancy-divider::after {
+  content: "";
+  flex: 1;
+  height: 2px;
+  background: var(--blue);
+}
+
+.fancy-divider::before {
+  margin-right: 15px;
+}
+
+.fancy-divider::after {
+  margin-left: 15px;
+}
+
+.fancy-divider span {
+  width: 14px;
+  height: 14px;
+  background: var(--blue);
   border-radius: 50%;
-  border: 5px solid white;
-  box-shadow: 0 0 0 4px var(--blue);
 }
 
 /* STYLE SUMMARY SECTION */

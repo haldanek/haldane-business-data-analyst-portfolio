@@ -2,6 +2,7 @@ function About() {
   return (
     <main className='about-page'>
       {/* QUOTE BANNER */}
+      <h1>About</h1>
       <section className='quote-banner'>
         <p className='quote-text'>
           "I have always been an educator. The tools have changed, but my

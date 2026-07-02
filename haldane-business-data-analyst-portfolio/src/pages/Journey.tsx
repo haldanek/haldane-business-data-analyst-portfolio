@@ -47,8 +47,8 @@ function Journey() {
             skills to support data-driven decision making.
           </p>
         </div>
-        <div className='timeline-end'>
-          <div className='end-circle'></div>
+        <div className='fancy-divider'>
+          <span></span>
         </div>
       </section>
       <section className='career-summary'>
