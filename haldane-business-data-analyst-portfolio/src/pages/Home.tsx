@@ -4,11 +4,13 @@ function Home() {
       <section className='hero'>
         <h1>Kimberlee Haldane</h1>
 
-        <h2>Business Data Analyst Portfolio</h2>
+        <h2>Data Analyst Portfolio</h2>
 
         <p>
-          Transforming data into actionable business insights through analysis,
-          visualization, and communication.
+          Aspiring Data Analyst with a background in education and a passion for
+          transforming data into meaningful insights. Currently building
+          expertise in data analysis, visualization, and reporting through
+          hands-on projects and continuous learning.
         </p>
 
         <div className='hero-buttons'>
@@ -16,8 +18,6 @@ function Home() {
           <button>Contact Me</button>
         </div>
       </section>
-      
-      
 
       <section className='stats-section'>
         <div className='stat-card'>
