@@ -109,7 +109,7 @@ function Resume() {
 
         <div className='experience-item'>
           <h3>Software Development Trainee</h3>
-          <p>Code Differently | 02/2025</p>
+          <p>Code Differently | 08/2024 - 02/2025</p>
 
           <ul>
             <li>

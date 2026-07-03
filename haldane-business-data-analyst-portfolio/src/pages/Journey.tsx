@@ -21,6 +21,36 @@ function Journey() {
         <span></span>
       </div>
 
+      <section className='career-summary'>
+        <h2>Why Analytics?</h2>
+
+        <p>
+          Throughout my career I have been responsible for collecting
+          information, identifying patterns, solving problems, and communicating
+          insights.
+        </p>
+
+        <p>
+          Data Analytics allows me to combine these strengths with technical
+          tools such as Excel, SQL, Power BI, and Python to support business
+          decisions.
+        </p>
+
+        <h3>Transferable Skills</h3>
+
+        <ul className='skills-list'>
+          <li>Communication</li>
+          <li>Problem Solving</li>
+          <li>Data Interpretation</li>
+          <li>Stakeholder Collaboration</li>
+          <li>Documentation</li>
+          <li>Research</li>
+          <li>Process Improvement</li>
+        </ul>
+      </section>
+
+      <div className='journey-arrow'>⬇</div>
+
       <section className='journey-container'>
         <div className='journey-card'>
           <h2>Building This Portfolio with AI</h2>
@@ -66,36 +96,6 @@ function Journey() {
             and use available tools effectively.
           </p>
         </div>
-        <div className='journey-arrow'>⬇</div>
-
-        <section className='career-summary'>
-          <h2>Why Analytics?</h2>
-
-          <p>
-            Throughout my career I have been responsible for collecting
-            information, identifying patterns, solving problems, and
-            communicating insights.
-          </p>
-
-          <p>
-            Data Analytics allows me to combine these strengths with technical
-            tools such as Excel, SQL, Power BI, and Python to support business
-            decisions.
-          </p>
-
-          <h3>Transferable Skills</h3>
-
-          <ul className='skills-list'>
-            <li>Communication</li>
-            <li>Problem Solving</li>
-            <li>Data Interpretation</li>
-            <li>Stakeholder Collaboration</li>
-            <li>Documentation</li>
-            <li>Research</li>
-            <li>Process Improvement</li>
-          </ul>
-        </section>
-
         <div className='journey-arrow'>⬇</div>
 
         <div className='journey-card'>

@@ -2,7 +2,13 @@ function About() {
   return (
     <main className='about-page'>
       {/* QUOTE BANNER */}
-      <h1>About</h1>
+      <div className='about-header'>
+        <img src='/headshot.jpg' alt='Kimberlee Haldane' className='headshot' />
+
+        <div>
+          <h1>About</h1>
+        </div>
+      </div>
       <section className='quote-banner'>
         <p className='quote-text'>
           "I have always been an educator. The tools have changed, but my
@@ -13,6 +19,10 @@ function About() {
 
         <p className='quote-author'>— Kimberlee Haldane</p>
       </section>
+
+      <div className='fancy-divider'>
+        <span></span>
+      </div>
 
       {/* INTRO SECTIONS */}
       <section className='about-section'>
