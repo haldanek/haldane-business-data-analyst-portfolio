@@ -4,8 +4,8 @@ function Skills() {
       <h1>Skills Dashboard</h1>
 
       <p>
-        This dashboard tracks my development as a Business Data Analyst and
-        provides evidence of my skills through portfolio projects.
+        This dashboard tracks my development as a Data Analyst and provides
+        evidence of my skills through portfolio projects.
       </p>
 
       <section className='skills-grid'>

@@ -4,8 +4,8 @@ function Projects() {
       <h1>Projects</h1>
 
       <p>
-        A collection of business analytics projects demonstrating data analysis,
-        reporting, visualization, and business problem-solving skills.
+        A collection of analytics projects demonstrating data analysis,
+        reporting, visualization, and problem-solving skills.
       </p>
 
       <section className='projects-grid'>
